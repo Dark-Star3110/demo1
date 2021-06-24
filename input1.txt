@@ -1,0 +1,12 @@
+Feering  Blaxhall  46
+Blaxhall  Dunwich  15
+Dunwich  Blaxhall  17
+Tiptree  Feering  3
+Harwich  Tiptree  31
+Harwich  Dunwich  53
+Feering  Maldon  11
+Maldon  Tiptree  8
+Clacton  Maldon  40
+Clacton  Harwich  17
+Tiptree  Clacton  29
+Harwich  Blaxhall  40
